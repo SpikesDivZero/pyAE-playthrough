@@ -78,7 +78,7 @@ I'm playing through Pyanodon's mods over on [Twitch](https://twitch.tv/spikesdiv
 ## Startup
 
 * Alien Biomes: Disable Inline Shallows
-* Deadlocks Loaders: Auto unstack, hide unstacking recipes, batch stacking
+* Deadlocks Loaders: Auto unstack, hide unstacking recipes, batch stacking, stack size 4
 
 # Map Options
 
